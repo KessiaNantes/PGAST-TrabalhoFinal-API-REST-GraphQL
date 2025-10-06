@@ -1,3 +1,17 @@
+PGATS – Trabalho Final API (REST + GraphQL)
+
+API em Node.js 20 (ESM) com Express (REST) e Apollo (GraphQL).
+Autenticação JWT (Bearer), documentação Swagger, e testes automatizados com Mocha + Chai + Supertest (External) e Sinon (Controllers).
+CI no GitHub Actions (push/PR) + agendado às segundas 12:00 BRT.
+
+
+✅ Stack
+
+Express, Apollo Server v3, GraphQL v16
+JWT (jsonwebtoken), Swagger (swagger-ui-express)
+Mocha, Chai, Supertest, Sinon
+
+
 Instalação
 
 npm install
